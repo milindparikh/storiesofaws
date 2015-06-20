@@ -1,0 +1,10 @@
+[
+    {
+    "type": "add", 
+    "id": "gbp-inr.json",
+    "name"	: "gbp-inr.json",
+    "location" : "finance/exchangerates/",
+    "desc": "Exchange Rate between UK Pounds and Indian Rupee"
+    }
+]
+    
